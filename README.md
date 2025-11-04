@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Ziyahul Haq — Web Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ziyahul+Haq+👋;Front-end+%26+Back-end+Web+Developer;Building+Modern+%26+Responsive+Web+Apps;Always+learning+new+things+💡" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ziyahul+Haq;Front-end+%26+Back-end+Web+Developer;Building+Modern+%26+Responsive+Web+Apps;Always+learning+new+things" alt="Typing Animation">
 </p>
 
 <p align="center">
