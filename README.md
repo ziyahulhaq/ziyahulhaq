@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">🚀 Ziyahul Haq — Full Stack Web Developer</h1>
 
 <p align="center">
@@ -16,15 +16,14 @@
 
 # 🧠 About Me
 
-```js
-const ziyahulHaq = {
+
+<p>
   role: "Full Stack Web Developer",
   passion: "Building modern, responsive & scalable web applications",
   currentFocus: ["Next.js", "NestJS", "System Design", "DevOps"],
   learning: ["AWS", "CI/CD", "Docker", "Advanced Backend"],
   funFact: "I love turning ideas into real-world products 🚀",
-};
-````
+</p>
 
 💻 I enjoy building high-performance web applications with modern technologies and clean UI/UX.
 ⚡ Passionate about both frontend and backend development.
