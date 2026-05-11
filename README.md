@@ -14,32 +14,25 @@
 
 ---
 
-# 🧠 About Me
+#  About Me
 
 
-<p>
-  role: "Full Stack Web Developer",
-  passion: "Building modern, responsive & scalable web applications",
-  currentFocus: ["Next.js", "NestJS", "System Design", "DevOps"],
-  learning: ["AWS", "CI/CD", "Docker", "Advanced Backend"],
-  funFact: "I love turning ideas into real-world products 🚀",
-</p>
-
-💻 I enjoy building high-performance web applications with modern technologies and clean UI/UX.
+<p align="center">  <b>Full Stack Web Developer</b><br/>  Passionate about building modern, scalable & responsive web applications<br/> ⚡ Focused on <b>Next.js</b>, <b>NestJS</b>, and <b>DevOps</b><br/>  Currently learning <b>AWS</b>, <b>CI/CD</b>, and <b>Docker</b><br/>  Turning ideas into real-world products </p>
+ I enjoy building high-performance web applications with modern technologies and clean UI/UX.
 ⚡ Passionate about both frontend and backend development.
-🚀 Always learning and experimenting with new tools and frameworks.
+ Always learning and experimenting with new tools and frameworks.
 
 ---
 
-# ⚒️ Tech Stack
+#  Tech Stack
 
-## 🎨 Frontend
+##  Frontend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-## ⚙️ Backend & APIs
+##  Backend & APIs
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma" />
@@ -50,7 +43,7 @@
   <img src="https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socketdotio&badgeColor=010101"/>
 </p>
 
-## 🗄️ Databases
+##  Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
@@ -60,7 +53,7 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-## ☁️ Cloud & DevOps
+##  Cloud & DevOps
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
@@ -78,7 +71,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
-## ✨ Animation & UI
+##  Animation & UI
 
 <p align="left">
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
@@ -86,7 +79,7 @@
 
 ---
 
-# 📈 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ziyahulhaq&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
@@ -100,17 +93,17 @@
 
 ---
 
-# 🚀 Current Goals
+#  Current Goals
 
-* 🔥 Master Full Stack Development
-* ⚡ Build scalable real-world applications
-* ☁️ Learn advanced AWS & DevOps
-* 🧠 Improve System Design skills
-* 🚀 Contribute to Open Source
+*  Master Full Stack Development
+*  Build scalable real-world applications
+*  Learn advanced AWS & DevOps
+*  Improve System Design skills
+*  Contribute to Open Source
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="left">
   <a href="mailto:ziyavulhaq94@gmail.com">
@@ -128,7 +121,7 @@
 
 ---
 
-# 🐍 Contribution Snake
+#  Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
@@ -137,7 +130,7 @@
 ---
 
 <p align="center">
-  ⭐ If you like my work, feel free to star my repositories and connect with me!
+   If you like my work, feel free to star my repositories and connect with me!
 </p>
 
 <p align="center">
